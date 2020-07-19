@@ -7,7 +7,6 @@ public class TestGit {
         System.out.println("hellow git");
         System.out.println("hellow git"); System.out.println("hellow git");
         System.out.println("hellow git");
-        jdsklfjdksa
 
     }
 }
